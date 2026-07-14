@@ -1,16 +1,6 @@
 # Calculator using CustomTkinter
 
 A modern desktop calculator built with **Python** and **CustomTkinter**. This project demonstrates the use of a clean graphical user interface (GUI) for performing basic arithmetic operations while following Python programming best practices.
-
-## Preview
-
-> Add a screenshot of your calculator here.
-
-Example:
-![Calculator Screenshot](images/calculator.png)
-
----
-
 ## Features
 
 - Modern GUI using CustomTkinter
